@@ -28,8 +28,8 @@ FlinkStudy 实战代码根据 Flink 实战文档所编写，使用 Flink1.13.2 �
 <img src="https://files.mdnice.com/user/19005/b13cfefa-1229-455b-a1c1-f2a3c6207ce8.png" alt="img" style="zoom:80%;" />
 
 
-扫码关注微信公众号：**3分钟秒懂大数据**，获取更多大数据、流计算博文信息。
-
+扫码关注微信公众号：**3分钟秒懂大数据**，获取更多大数据、流计算博文信息。（文档密码：759057893
+）
 
 ![](https://files.mdnice.com/user/19005/9b74646c-5950-4a72-ba53-f3755c6ed667.png)
 
